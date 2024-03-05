@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning React and Next.js for Front-End and Node.js and Express for Back-End.<br><br>📫 Feel free to reach me out jcoronelcamacho@gmail.com<br><br>
+🔭 I’m currently learning React + Next.js for Front-End and Node.js + Express for Back-End.<br><br>📫 Feel free to reach me out jcoronelcamacho@gmail.com<br><br>
 
 
 ## 🌐 Socials:

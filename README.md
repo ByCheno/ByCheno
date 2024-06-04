@@ -1,7 +1,3 @@
-#  About Me:
- I’m currently learning React + Next.js for Front-End and Node.js + Express for Back-End.<br><br>📫 Feel free to reach me out jcoronelcamacho@gmail.com<br><br>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jose_ccamacho) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/jcoronelcode) 
 

@@ -3,18 +3,18 @@
 
 # 💻 Tech Stack:
 💻PHP <br>
-&emsp;📚 Laravel <br>
+&emsp;&emsp;📚 Laravel <br>
 💻Java <br>
 💻HTML5 <br>
 💻CSS <br>
-&emsp;📚 Bootstrap <br>
-&emsp;📚 Tailwind <br>
+&emsp;&emsp;📚 Bootstrap <br>
+&emsp;&emsp;📚 Tailwind <br>
 💻Javascript <br>
-&emsp;📚 React <br>
-&emsp;📚 Vue <br>
+&emsp;&emsp;📚 React <br>
+&emsp;&emsp;📚 Vue <br>
 💻SQL Database <br>
-&emsp;📦 MySQL <br>
-&emsp;📦 Oracle <br>
+&emsp;&emsp;📦 MySQL <br>
+&emsp;&emsp;📦 Oracle <br>
 ⚙️Git, Github <br>
 ⚙️Postman <br>
 ⚙️Atlassian stack (Jira, Confluence) <br>

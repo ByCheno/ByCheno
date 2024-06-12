@@ -4,21 +4,20 @@
 # 💻 Tech Stack:
 💻PHP
     📚 Laravel <br>
-💻Java
-💻HTML5
-💻CSS
-    📚 Bootstrap
-    📚 Tailwind
-💻Javascript
-    📚 React
-    📚 Vue
-
-💻SQL Database
-    📦 MySQL
-    📦 Oracle
-⚙️Git, Github
-⚙️Postman
-⚙️Atlassian stack (Jira, Confluence)
+💻Java <br>
+💻HTML5 <br>
+💻CSS <br>
+    📚 Bootstrap <br>
+    📚 Tailwind <br>
+💻Javascript <br>
+    📚 React <br>
+    📚 Vue <br>
+💻SQL Database <br>
+    📦 MySQL <br>
+    📦 Oracle <br>
+⚙️Git, Github <br>
+⚙️Postman <br>
+⚙️Atlassian stack (Jira, Confluence) <br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)

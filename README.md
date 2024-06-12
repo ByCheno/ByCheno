@@ -1,6 +1,6 @@
 ## 🙌🏽About me:
-I am a junior developer. I love programming in my free time and learning new technologies to stay up-to-date. Music and sports help me in my daily life as a developer; they bring me peace and help clear my mind.
-I am very eager to join a serious and innovative team to put all my knowledge into practice and grow professionally within the company.
+I am a junior developer. I love programming in my free time and learning new technologies to stay up-to-date. Music and sports help me in my daily life as a developer; they bring me peace and help clear my mind. <br>
+I am very eager to join a serious and innovative team to put all my knowledge into practice and grow professionally within the company. <br>
 Sincerely, Jose Coronel
 
 ## 🌐 Socials:

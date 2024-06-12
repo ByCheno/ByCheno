@@ -3,7 +3,7 @@
 
 # 💻 Tech Stack:
 💻PHP
-    📚 Laravel
+    📚 Laravel <br>
 💻Java
 💻HTML5
 💻CSS

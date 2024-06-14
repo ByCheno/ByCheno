@@ -2,7 +2,7 @@
 I am a junior developer. I love programming in my free time and learning new technologies to stay up-to-date. <br>
 Music and sports help me in my daily life as a developer, they bring me peace and help clear my mind. <br>
 I am very eager to join a serious and innovative team to put all my knowledge into practice and grow professionally within the company. <br>
-Sincerely, Jose Coronel
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jose_ccamacho) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/jcoronelcode) 
